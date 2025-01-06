@@ -1,68 +1,68 @@
 {
   "interests": [
-    {
-      "label": "Python",
-      "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+      {
+          "label": "Python",
+          "image": {
+              "src": "../../images/python.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "C#",
+          "image": {
+              "src": "../../images/c#.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "JavaScript",
+          "image": {
+              "src": "../../images/js.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "ASP.NET Core",
+          "image": {
+              "src": "../../images/net.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "Node.js",
+          "image": {
+              "src": "../../images/node.webp",
+              "alt": ""
+          }
+      },
+      {
+          "label": "React",
+          "image": {
+              "src": "../../images/react.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "AWS",
+          "image": {
+              "src": "../../images/aws.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "Azure",
+          "image": {
+              "src": "../../images/azure.png",
+              "alt": ""
+          }
+      },
+      {
+          "label": "Github Actions",
+          "image": {
+              "src": "../../images/github.png",
+              "alt": ""
+          }
       }
-    },
-    {
-      "label": "Java",
-      "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "JavaScript/TypeScript",
-      "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "ASP.NET Core",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React/Node.js",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Redux",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "AWS",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Git",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Docker",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    }
   ],
   "button": {
     "visible": true,

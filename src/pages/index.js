@@ -16,10 +16,10 @@ export default function IndexPage() {
       <Seo title="Gatsby Starter for Portfolio Minimal" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Shinyoung" />
+        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
+        <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="details" heading="Technical Skills" />
-        <ProjectsSection sectionId="features" heading="Team/Personal Projects" />
+        <ProjectsSection sectionId="features" heading="Projects" />
         <ContactSection sectionId="github" heading="Issues?" />
       </Page>
     </>

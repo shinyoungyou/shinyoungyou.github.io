@@ -1,5 +1,5 @@
 {
-  "intro": "Hey, Shinyoung here",
+  "intro": "Hello",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Software Developer",
+  "title": "It's Shinyoung You,",
   "subtitle": {
-    "prefix": "with ",
+    "prefix": "a Software Developer with ",
     "highlight": "5 Months",
-    "suffix": " of internship experience."
+    "suffix": " of internship."
   },
-  "description": "I create and share innovative realities through my technical enthusiasm",
+  "description": "Thank you for visiting my website! I'm excited to share my work with you.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false

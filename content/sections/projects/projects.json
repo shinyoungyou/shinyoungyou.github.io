@@ -1,48 +1,117 @@
 {
   "projects": [
-    {
-      "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          {
+          "visible": true,
+          "category": "🕹️ Team poroject at BCIT",
+          "title": "Study Buddy",
+          "description": "Through our team’s survey, many students struggle with time management, finding it difficult to balance their studies with other responsibilities. To address this, we decided to create a study tracking app to help students log study hours and manage their time effectively. Study buddy is a mobile-friendly web app that provides tools to record study time and personalized insights based on performance.",
+          "tags": ["HTML/CSS", "Tailwind", "JavaScript", "DOM Manipulation", "Firebase"],
+          "image": {
+              "src": "../../images/studybuddy.png",
+              "alt": "Quick Setup",
+              "linkTo": "https://comp1800-202430-personal.web.app/"
+          },
+          "links": [
+              {
+                  "type": "github",
+                  "url": "https://github.com/shinyoungyou/1800_202430_DTC13"
+              },
+              {
+                  "type": "external",
+                  "url": "https://comp1800-202430-personal.web.app"
+              }
+          ]
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+      {
+          "visible": true,
+          "category": "🧰 Persoanl project",
+          "title": "Slack Message Archive",
+          "description": "When I was working at Cube Design and Communication, my team used Slack to communicate. One day, I tried to find a message to troubleshoot an issue, but I couldn’t because we were on Slack’s Free Plan, which limits access to messages older than 90 days. This experience inspired me to create this app. Slack Message Archive is a web-based app that automatically stores messages and provides permanent access to them.",
+          "tags": ["TypeScript", "MERN", "Redux Toolkit", "MUI", "Slack Events API", "ngrok"],
+          "image": {
+              "src": "../../images/slack.png",
+              "alt": "Extendable Layout"
+          },
+          "links": [
+              {
+                  "type": "github",
+                  "url": "https://github.com/shinyoungyou/slack-backup-proj"
+              }
+          ]
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
-    }
+      {
+          "visible": true,
+          "category": "🕹️ Persoanl project",
+          "title": "Language Exchange",
+          "description": "As an ESL speaker myself, I remembered how hard it was to find friends who spoke the language I wanted to practice. That's when I thought of creating an app that would help students connect with native speakers of the language they want to learn. \n After I finished a coding bootcamp, I felt like I didn't have enough skill in backend development. To fix this, I spent time learning ASP.NET. While doing so, I learned many things, like how to use the CQRS pattern and how to add real-time chatting with SignalR. \n Since I had just picked up new backend skills, I decided to combine my idea with what I had learned. That's how I ended up building my language exchange app.",
+          "tags": [
+              "TypeScript",
+              "React",
+              "Mobx",
+              "C#",
+              "ASP.NET Core",
+              "MSSQL",
+              "Docker",
+              "Github Actions",
+              "Azure",
+              "Translation API",
+              "Google Maps API"
+          ],
+          "image": {
+              "src": "../../images/langex.png",
+              "alt": "Quick Setup",
+              "linkTo": "https://language-exchange-app.azurewebsites.net"
+          },
+          "links": [
+              {
+                  "type": "github",
+                  "url": "https://github.com/shinyoungyou/v2-language-exchange"
+              },
+              {
+                  "type": "external",
+                  "url": "https://language-exchange-app.azurewebsites.net"
+              }
+          ]
+      },
+      {
+          "visible": true,
+          "category": "🕹️ Persoanl project",
+          "title": "Twitter Clone",
+          "description": "Twitter Clone is a full-stack project featuring CRUD operations for posts and comments, retweets, follow/unfollow functionality, like/unlike posts, infinite scrolling, and image uploads to AWS S3.",
+          "tags": ["TypeScript", "Next.js", "MUI", "Node.js", "Express.js", "MySQL", "AWS S3"],
+          "image": {
+              "src": "../../images/twitter.png",
+              "alt": "Quick Setup",
+              "linkTo": "https://github.com/shinyoungyou/client-nextproject"
+          },
+          "links": [
+              {
+                  "type": "github",
+                  "url": "https://github.com/shinyoungyou/serverjs-nextproject"
+              }
+          ]
+      },
+      {
+          "visible": true,
+          "category": "🧰 Team project at bootcamp",
+          "title": "Education dashboard",
+          "description": "Led a frontend team of 4 to develop a user role-based education system (admin, teacher, and student) with CRUD operations, allowing admin to register new students, teachers, and courses.",
+          "tags": ["HTML/CSS", "JavaScript", "React", "Bootstrap",  "PHP", "MySQL"],
+          "image": {
+              "src": "../../images/education-dashboard.png",
+              "alt": "Extendable Layout"
+          },
+          "links": [
+              {
+                  "type": "github",
+                  "url": "https://github.com/shinyoungyou/final-project-beavers"
+              }
+          ]
+      }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit previous works",
+    "url": "https://shinyoung-portfolio.web.app"
   }
 }

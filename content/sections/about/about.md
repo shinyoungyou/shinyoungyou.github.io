@@ -1,14 +1,17 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/shinyoung2.png"
+imageAlt: "Shinyoung You"
 ---
+My name is **Shinyoung You**, and I'm currently a Term 2 student at BCIT majoring in Computer Systems Technology (CST) in Vancouver, BC.
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+After finishing 6 months of coding bootcamp, I have 5 months of related internship experience at Cube Design and Communication and Vancouver Fashion Week.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+At Vancouver Fashion Week, I learned how to effectively **communicate** and quickly **adapt** by collaborating with the team to troubleshoot technical issues for a seamless user experience.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+At Cube Design and Communication, I redesigned a website using Vue.js, Firebase, and Google Domains. I built a multilingual support with an internationalization plugin, Vue I18n to the redesigned website.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+In addition to my work experience, working on school team projects a couple of times helped me improve my **leadership** skills as a project manager or frontend lead within the team.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+To become a developer specialized in **Backend**, I have created several web-based apps as part of my personal projects. 
+
+Please check out my work!
