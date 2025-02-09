@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/static/Resume_Shinyoung_You.pdf"
+        "url": "/Resume_Shinyoung_You.pdf"
       },
       "footer": [
         { "label": "About", "url": "/#about" },
