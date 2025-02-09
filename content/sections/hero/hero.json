@@ -1,22 +1,22 @@
 {
-  "intro": "Hello",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
-  "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
-  },
-  "title": "It's Shinyoung You,",
-  "subtitle": {
-    "prefix": "a Software Developer with ",
-    "highlight": "5 Months",
-    "suffix": " of internship."
-  },
-  "description": "Thank you for visiting my website! I'm excited to share my work with you.",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+    "intro": "Hello",
+    "heroPhoto": {
+        "src": "../../images/lego-dummy.png",
+        "alt": "My Photo"
+    },
+    "image": {
+        "src": "../../images/waving-hand.png",
+        "alt": "Waving Hand Emoji"
+    },
+    "title": "It's Shinyoung You,",
+    "subtitle": {
+        "prefix": "BCIT Computing student with ",
+        "highlight": "5 Months",
+        "suffix": " of internship."
+    },
+    "description": "Thank you for visiting my website! I'm excited to share my work with you.",
+    "socialProfiles": {
+        "from": ["LinkedIn", "Medium", "Github", "Mail"],
+        "showIcons": false
+    }
 }
